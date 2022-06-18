@@ -1,5 +1,5 @@
 //sktsktsktsktsktsktsktsktsktsktsktsktsktskt
-//robotic arm model robotic arm model robotic arm modelrobotic arm modelrobotic arm model
+//robotic arm model/ robotic arm model robotic arm modelrobotic arm modelrobotic arm model
 
 #include <Servo.h>
 
